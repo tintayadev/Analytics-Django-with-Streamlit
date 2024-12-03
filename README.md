@@ -2,37 +2,6 @@
 
 Este proyecto es una aplicación web que utiliza Django para el backend y Streamlit para el frontend.
 
-## Estructura del Proyecto
-┣ 📂backend
-┃ ┣ 📂core
-┃ ┃ ┣ 📂api
-┃ ┃ ┃ ┗ 📜urls.py
-┃ ┃ ┣ 📜__init__.py
-┃ ┃ ┣ 📜asgi.py
-┃ ┃ ┣ 📜settings.py
-┃ ┃ ┣ 📜urls.py
-┃ ┃ ┗ 📜wsgi.py
-┃ ┣ 📂customers
-┃ ┃ ┣ 📂api
-┃ ┃ ┃ ┣ 📜serializers.py
-┃ ┃ ┃ ┣ 📜urls.py
-┃ ┃ ┃ ┗ 📜views.py
-┃ ┃ ┣ 📂migrations
-┃ ┃ ┃ ┣ 📜__init__.py
-┃ ┃ ┃ ┗ 📜0001_initial.py
-┃ ┃ ┣ 📜__init__.py
-┃ ┃ ┣ 📜admin.py
-┃ ┃ ┣ 📜apps.py
-┃ ┃ ┣ 📜choices.py
-┃ ┃ ┣ 📜models.py
-┃ ┃ ┣ 📜tests.py
-┃ ┃ ┗ 📜views.py
-┃ ┣ 📜db.sqlite3
-┃ ┗ 📜manage.py
-┣ 📜.gitignore
-┣ 📜app.py
-┗ 📜requirements.txt
-
 
 ## Preview
 
